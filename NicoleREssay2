@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Franeknstein: Patriarchy and Hysteria</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<<p>The first dramatic version of <em>Frankenstein</em> was performed in 1832, beginning what would become a long history of retellings of the classic tale. The legacy and continued popularity of <em>Frankenstein</em> on modern culture has been perpetuated by public interaction and interpretive renderings.  This early production immediately changed the dynamic of the story by adding a new character- the infamous laboratory assistant, today called "Igor", but originally named Fritz. And sense then, the "myth of Frankenstein" has evolved to a somewhat caricatured model of Mary Shelly's original, soulful Monster. This essay will explore that many facets of reinterpretation, renderings, and fan fiction surrounding the original novel. The Monster can now be found as a character in video games, the scientist Frankenstein online in transmedia storytelling to teach science, and both are at the center of fan fiction re-imaginings.  Fan fiction websites are dedicated to either altering the ending, editing specific scenes, or adding and detracting characters. Bestselling author Dean Koontz devoted a three-book series to the survival of both Frankenstein and the Monster in the modern era. Showtime's <em>Penny Dreadful </em>reinterprets the main characters, keeping the myth alive today. This essay will assess the underlying question of why there is a need to not only keep the story alive, but also to change it. </p><
+
+<!-- Header Section -->
+<?php include("header.php"); 
+?>
+
+
+<!-- Footer Section -->
+<?php include("footer.php"); 
+?>
+
+<!-- End page content -->
+</div>
+
+
+
+
+</body>
+</html>
